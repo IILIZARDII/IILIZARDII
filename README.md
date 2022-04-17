@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IILIZARDII
+- 👀 I’m interested in learning coding 
+- 🌱 I’m currently learning front-end developement 
+- 📫 How to reach me 05elizaveta11@gmail.com
